@@ -5,7 +5,7 @@
 # PSXploit-Playground-for-all
 Playground a utilisé sur plusieurs consoles hackables via un navigateur internet qu'on peut cité ci-dessous :
 
-# PlayStation 4 : 
+# PlayStation 4 : *Uniquement pour console sous firmware 4.55*
 * **HEN**
 * **HEN + VR**
 * **FTP**
@@ -13,7 +13,7 @@ Playground a utilisé sur plusieurs consoles hackables via un navigateur interne
 * **Dumper de Xvortex**
 * **AppToUSB**
 * **Linux**
-* **IDC**
+* **Specter**
 * **Activation et Désactivations des mises à jours**
 * **Activateur du navigateur**
 * **Mod** *(PS4Cheat, mod GTA de ArabicGuy, Lamance et WildeModz).*
