@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
-# PSXploit-Playground-for-all
+# Web Host AIO : le hack de toutes les consoles en un !
 Playground a utilisé sur plusieurs consoles hackables via un navigateur internet qu'on peut cité ci-dessous :
 
 # PlayStation 4 : *Uniquement pour console sous firmware 5.05*
