@@ -1,11 +1,11 @@
-![Banner](https://raw.githubusercontent.com/chronoss09/PSXploit-Playground-for-all/master/857355209b6287cee875c3574d4a78a3.png)
+![Banner](https://github.com/chronoss09/PSXploit-Playground-for-all/blob/master/coollogo_com-88251708.png)
 
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
 # PSXploit-Playground-for-all
 Playground a utilisé sur plusieurs consoles hackables via un navigateur internet qu'on peut cité ci-dessous :
 
-# PlayStation 4 : *Uniquement pour console sous firmware 4.55*
+# PlayStation 4 : *Uniquement pour console sous firmware 5.05*
 * **HEN**
 * **HEN + VR**
 * **FTP**
@@ -13,10 +13,9 @@ Playground a utilisé sur plusieurs consoles hackables via un navigateur interne
 * **Dumper de Xvortex**
 * **AppToUSB**
 * **Linux**
-* **Specter**
-* **Activation et Désactivations des mises à jours**
-* **Activateur du navigateur**
-* **Mod** *(PS4Cheat, mod GTA de ArabicGuy, Lamance et WildeModz).*
+* **Mira + HEN**
+* **Activation et Désactivations des mises à jours systèmes**
+* **Mod** *(les mod du jeu GTA V).*
 
 # PlayStation 3 (PS3Xploit v1) :
 * **Dump de la nand** *depuis un firmware officiel*
@@ -32,8 +31,7 @@ Playground a utilisé sur plusieurs consoles hackables via un navigateur interne
 # Wii U :
 * **Homebrew Launcher** sous firmware *5.5.1 et 5.5.2*
 
-# Nintendo Switch :
-* **Homebrew Menu** *sous firmware 3.0.0*
-* **Fusée Gelée** *(compatible toutes consoles sous n'importe quel firmware)*
+# PlayStation Vita :
+* **HENKAKU** : *installer HENKAKU sous firmware 3.60*
 
-Grand merci à la ***Team PS3Xploit*** pour le template du playground utilisé, à ***BenMitnick*** pour les conseilles et à tous les Devs qui ont pu exploité toutes ces consoles pour notre plaisir !
+Grand merci à la ***Team PS3Xploit*** pour le template du playground utilisé, à ***BenMitnick*** pour les conseilles, ***Red-J*** pour le checker des consoles et à tous les Devs qui ont pu exploité toutes ces consoles pour notre plaisir !
